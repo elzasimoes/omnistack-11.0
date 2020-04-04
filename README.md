@@ -1,17 +1,25 @@
-# Be The **Hero!** *(Omnistack 11.0)*  🚀
+# To be a **Hero!** *(Omnistack 11.0)*  🚀
 
  ![rocketseat hashtag on Twitter](https://pbs.twimg.com/media/EULFNxhXgAAWXcq.jpg)
 
 ## 💻 Development Technologies:
-Node.js
-React & React Native.
-Expo.
 
-## 💻Development Components:
 
-- Frontend:
-	React
+ - Frontend:
+	Axios;
+	React;
 
-- Backend:
-    Knex.js
-    Nodemon.
+ - Backend:
+    NodeJs;
+    Knex.js;
+    Nodemon;
+    Express;
+    SQlite3.
+    Celebrate;
+    Jest;
+    Cross-env;
+    Supertest;
+
+ - Mobile:
+    React Native;
+    Expo;
