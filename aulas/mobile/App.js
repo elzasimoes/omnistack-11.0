@@ -1,11 +1,12 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+
+import Routes from './src/routes'
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Elza!!</Text>
-    </View>
+    <Routes>
+
+    </Routes>
   );
 }
 
